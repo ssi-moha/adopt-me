@@ -1,0 +1,17 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ssi-moha/adopt-me.git",
+  "author": "Sinane <ssi-moha@student.42.fr>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "format": "prettier \"src/**/*.{js,html}\" --write"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "prettier": "^2.0.5"
+  }
+}
