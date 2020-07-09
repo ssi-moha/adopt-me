@@ -14,4 +14,7 @@ Built Upon
 
 On this app, you can research and find different sort of pets, check their pictures and even adopt one of them !
 
+![Pet Research](adopt-me-search.png)
+![Pet Details](adopt-me-details.png)
+
 Thanks to Frontend Masters !
